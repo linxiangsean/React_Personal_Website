@@ -1,0 +1,101 @@
+{
+  "main": {
+    "name":"Xiang (Sean) Lin",
+    "occupation":"Developer",
+    "description":"A self motivated developer",
+    "image":"profilepic.jpg",
+    "bio":"",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "xianglinworking@gmail.com",
+    "phone": "6197350777",
+    "address":{
+      "street":"",
+      "city":"Irvine",
+      "state":"California",
+      "zip": "92620"
+    },
+    "website": "http://www.xiangseanlin.me",
+    "resumedownload":"https://drive.google.com/file/d/1dwVa1h_LGl0qhTbf5oAyt5bahuDUxb4g/view?usp=sharing",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"www.linkedin.com/in/xiang-sean-lin",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/linxiangsean",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Programming Languages: Java, C++, C#, Python, JavaScript, PHP, HTML, CSS, SQL. Operating Systems / Frameworks / Software: Linux/Unix, Windows, ASP.NET, MySQL, NoSQL, MATLAB, Node Server, Apache Server, RESTful Services, Unity (VR, AR), Microsoft Office, Git",
+    "education":[
+      {
+        "school":"University of Texas at Dallas",
+        "degree":"Masters in Computer Science",
+        "graduated":"May 2020",
+        "description":"Relevant Courses: Design & Analysis of Algorithms, Operating Systems Concepts, Database Design, Web Programming Languages, Human Computer Interactions, Object-Oriented Analysis and Programming"
+      },
+      {
+        "school":"Kalamazoo College",
+        "degree":"Bachlors in Computer Science Major and Music Minor",
+        "graduated":"June 2018",
+        "description":"Dean’s List (6 semesters) - Relevant Courses: Data Structures, Principle of Programming Languages, Distributed System, Software Development, Mobile Computing."
+      }
+    ],
+    "work":[
+      {
+        "company":"Cognizant",
+        "title":"Sr. AI & Analytics Associate",
+        "years":"Aug 2020",
+        "description":""
+      }
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"80%"
+      },
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"30%"
+      },
+      {
+        "name":"CSS",
+        "level":"60%"
+      },
+      {
+        "name":"HTML5",
+        "level":"60%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Camping Reservation Application",
+        "category":"a web application for camp site reservation using MEAN Stack – AngularJS, Express.js, Node.js, MongoDB",
+        "image":"project1Image.jpg",
+        "url":"http://xiangseanlin.me"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"",
+        "user":""
+      }
+    ]
+  }
+}
